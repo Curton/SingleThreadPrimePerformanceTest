@@ -2,7 +2,8 @@
 // Only for test the progress bar
 #include<stdio.h>
 #define N 20
-void mBar(float fBar){
+void mBar(float fBar)
+{
 
     int i = 0;
     int j = 0;
