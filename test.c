@@ -44,4 +44,5 @@ void main()
     int i;
     for ( i=0,x=0;i<100;i++,x+=0.01 ) { mBar(x); delay(1024); }
     mBar(1);
+    return 0;
 }
